@@ -19,7 +19,7 @@
 ## Demo
 ### D3 Choropleth Visualization
 #### Video of D3 Choropleth Visualization
-![Video of D3 Visualization](d3ussentiment.mp4)
+![Video of D3 Visualization](d3ussentiment.gif)
 
 ### Highcharts Visualization
 #### Video of Highcharts Visualization
