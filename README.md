@@ -18,12 +18,12 @@
 
 ## Demo
 ### D3 Choropleth Visualization
-#### Video of D3 Choropleth Visualization
-![Video of D3 Visualization](d3ussentiment.gif)
+#### GIF of D3 Choropleth Visualization
+![GIF of D3 Visualization](d3ussentiment.gif)
 
 ### Highcharts Visualization
-#### Video of Highcharts Visualization
-![Video of Highcharts Visualization](highchartussentiment.mp4)
+#### GIF of Highcharts Visualization
+![GIF of Highcharts Visualization](highchartussentiment.gif)
 
 
 
