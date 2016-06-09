@@ -28,3 +28,7 @@
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vimoxshah/stormu.s.tweetssentimentd3-highchart/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
