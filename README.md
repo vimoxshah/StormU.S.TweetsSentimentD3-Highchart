@@ -1,4 +1,4 @@
-# Storm Tweets SentimentAnalysis of U.S. Region D3+Highcharts
+# Storm Tweets SentimentAnalysis of U.S. Region D3+Highcharts[![Build Status](https://travis-ci.org/vimoxshah/StormU.S.TweetsSentimentD3-Highchart.svg?branch=master)](https://travis-ci.org/vimoxshah/StormU.S.TweetsSentimentD3-Highchart)
 ----------
 
 
